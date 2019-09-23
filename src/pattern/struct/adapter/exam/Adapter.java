@@ -1,4 +1,4 @@
-package pattern.inter.adapter.exam;
+package pattern.struct.adapter.exam;
 
 /**
  * @author: haibin li
