@@ -1,6 +1,5 @@
-package pattern.struct.responsibility.exam;
+package pattern.behavior.responsibility.exam;
 
-import java.util.Date;
 import java.util.Random;
 
 /**

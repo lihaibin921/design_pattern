@@ -1,4 +1,4 @@
-package pattern.struct.responsibility.exam;
+package pattern.behavior.responsibility.exam;
 
 /**
  * @author: haibin li
